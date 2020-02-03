@@ -14,7 +14,7 @@ steps:
   displayName: 'Run a one-line script'
 
 - bash: print "Hello World"
-displayName: Run Bash
+
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
